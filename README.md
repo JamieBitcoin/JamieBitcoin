@@ -1,0 +1,2 @@
+# JamieBitcoin
+Jamie Bitcoin Miner
